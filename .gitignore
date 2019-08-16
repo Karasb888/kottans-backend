@@ -86,3 +86,12 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Vagrant files
+Vagrantfile
+bootstrap.sh
+.vagrant
+
+#Vs code file
+.vscode
+.idea
